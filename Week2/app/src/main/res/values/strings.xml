@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week2</string>
+    <string name="button">Button</string>
+    <string name="arrayadapter">ArrayAdapter</string>
+    <string name="custom_adapter">Custom Adapter</string>
+    <string name="array_adapter">Array Adapter</string>
+    <string name="todo">TODO</string>
+</resources>
